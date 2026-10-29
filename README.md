@@ -5,9 +5,11 @@
 
 ### :man_technologist: About me:
 
-I am a recent graduate with a diploma in Front-End Development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, and I approach my career with a strong sense of purpose and organization. My journey has been marked by the practical application of my knowledge, where I've developed a keen ability to deeply analyze user needs. This skill allows me to create user-centric and intuitive solutions.
-What sets me apart is my commitment to continuous growth. I'm passionate about expanding my skill set across various IT domains and believe in the importance of adaptability in the ever-evolving tech landscape.
-Project management and coordination are areas where I excel, ensuring projects are delivered on time and align with business goals. I'm dedicated to making a meaningful impact in the tech world and excited about the limitless possibilities ahead. I invite you to connect with me to explore potential collaborations and opportunities.
+International Business student with a technical background in programming and experience in operational, administrative, and international work environments. Experienced in working with documentation, coordinating tasks, following procedures, and handling responsibilities with accuracy and attention to detail.
+ 
+I have worked in international teams and developed strong organizational, problem-solving, and teamwork skills. My technical background includes IT tools, HTML, CSS, JavaScript, databases, and general understanding of business and digital systems.
+ 
+Fluent in Polish, Ukrainian, and Russian, with English at B2 level. I am a fast learner, adaptable, and motivated to develop professionally while gaining practical experience in an international business environment.
 
 - :telescope: Participated in many sports courses!
 
